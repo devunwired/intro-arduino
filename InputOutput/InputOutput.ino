@@ -42,6 +42,7 @@ void loop() {
   int maxTemp = 85;
   int temp = constrain(read_temp(), minTemp, maxTemp);
   int val = map(temp, minTemp, maxTemp, 0, 63);
+  //Set Red/Blue as inverse of each other
   analogWrite(LED3_RED, 255 - val);
   analogWrite(LED3_GREEN, 255);
   analogWrite(LED3_BLUE, 192 + val);
