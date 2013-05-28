@@ -22,6 +22,8 @@ void loop()
   Serial.print('\r');
   sprintf(msg, "X: %4d Y: %4d", x, y);
   Serial.print(msg);
+  
+  delay(20);
 }
 
 // ===================================
