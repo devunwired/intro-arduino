@@ -1,0 +1,6 @@
+RgbLed	KEYWORD1
+setRed	KEYWORD2
+setGreen	KEYWORD2
+setBlue	KEYWORD2
+setRGB	KEYWORD2
+clear	KEYWORD2

@@ -1,0 +1,2 @@
+TempSensor	KEYWORD1
+read		KEYWORD2

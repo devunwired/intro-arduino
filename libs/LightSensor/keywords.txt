@@ -1,0 +1,4 @@
+LightSensor	KEYWORD1
+read	KEYWORD2
+isDark	KEYWORD2
+isBright	KEYWORD2
