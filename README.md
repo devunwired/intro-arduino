@@ -6,6 +6,7 @@ Examples include:
 
 - Hello World
 - Serial I/O
+- EEPROM
 - Analog/Digital I/O
 - Custom Library
 
